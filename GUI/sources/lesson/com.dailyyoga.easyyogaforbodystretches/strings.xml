@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="plugName">Easy Yoga for Body Stretches</string>
+    <string name="act_title_dynamicelevatedpose">Dynamic Elevated Pose</string>
+    <string name="act_text_dynamicelevatedpose"></string>
+    <string name="act_title_elevatedheellifting">Elevated Heel Lifting</string>
+    <string name="act_text_elevatedheellifting"></string>
+    <string name="act_title_elevatedshoulderstretch">Elevated Shoulder Stretch</string>
+    <string name="act_text_elevatedshoulderstretch"></string>
+    <string name="act_title_armaroundneck">Standing Neck Stretches</string>
+    <string name="act_text_armaroundneck"></string>
+    <string name="act_title_handonkneeshalfsquating">Chair Pose Squats</string>
+    <string name="act_text_handonkneeshalfsquating"></string>
+    <string name="act_title_handonkneeshalfsquatedcircling">Chair Pose Circles</string>
+    <string name="act_text_handonkneeshalfsquatedcircling"></string>
+    <string name="act_title_catandcowpose">Cat and Cow Pose</string>
+    <string name="act_text_catandcowpose"></string>
+    <string name="act_title_kneelingwriststretch">Kneeling Wrist Stretch</string>
+    <string name="act_text_kneelingwriststretch"></string>
+    <string name="act_title_kneelbendingdolphinplankpose">Half Dolphin Plank Pose</string>
+    <string name="act_text_kneelbendingdolphinplankpose"></string>
+    <string name="act_title_dolphinplankpose">Dolphin Plank Pose</string>
+    <string name="act_text_dolphinplankpose"></string>
+    <string name="act_title_dynamiconeleggedlocust1r">Dynamic One-Legged Locust (Right)</string>
+    <string name="act_text_dynamiconeleggedlocust1r"></string>
+    <string name="act_title_dynamiconeleggedlocust2l">Dynamic One-Legged Locust (Left)</string>
+    <string name="act_text_dynamiconeleggedlocust2l"></string>
+    <string name="act_title_oneleggedseatedtwist1l">One-Legged Seated Twist (Left)</string>
+    <string name="act_text_oneleggedseatedtwist1l"></string>
+    <string name="act_title_oneleggedseatedtwist2r">One-Legged Seated Twist (Right)</string>
+    <string name="act_text_oneleggedseatedtwist2r"></string>
+    <string name="act_title_supineleglocker1r">Supine Leg Locker (Right)</string>
+    <string name="act_text_supineleglocker1r"></string>
+    <string name="act_title_supineleglocker2l">Supine Leg Locker (Left)</string>
+    <string name="act_text_supineleglocker2l"></string>
+    <string name="act_title_supineboundanglepose">Supine Bound Angle Pose</string>
+    <string name="act_text_supineboundanglepose"></string>
+    <string name="act_title_corpsepose">Corpse Pose</string>
+    <string name="act_text_corpsepose"></string>
+    <string name="session_info_instructor">Instructor: Sophie</string>
+    <string name="session_info_class_level">Class Level: All</string>
+    <string name="session_info_goal">Goal: Weight Loss</string>
+    <string name="session_info">1</string>
+    <string name="session_info_like">Easy Yoga for Body Stretches</string>
+    <string-array name="session_keys">
+        <item>session_16.xml</item>
+    </string-array>
+    <string-array name="session_title">
+        <item>16 Min Training</item>
+    </string-array>
+    <string-array name="session_content">
+        <item>Casual</item>
+    </string-array>
+    <string-array name="session_icons">
+        <item>small</item>
+    </string-array>
+    <integer name="actVersion">0</integer>
+</resources>

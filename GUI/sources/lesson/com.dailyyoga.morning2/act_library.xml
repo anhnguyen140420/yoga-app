@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActLibrary xmlns:dailyYoga="http://schemas.android.com/apk/res/android" dailyYoga:packageName="com.dailyyoga.morning2">
+    <Act dailyYoga:id="act_1a" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_1a.mp4" dailyYoga:playTime="180000" dailyYoga:textString="@string/act_text_1a" dailyYoga:titleString="@string/act_title_1a">
+        <Icons>
+            <Icon dailyYoga:id="@icon/act_1a.png"></Icon>
+        </Icons>
+        <PrinciplePrompt>
+            <Promp dailyYoga:id="@promp/act_1a.png"></Promp>
+        </PrinciplePrompt>
+        <Audios>
+            <Audio dailyYoga:id="@ogg/act_1a_start.ogg" dailyYoga:startTime="100"></Audio>
+        </Audios>
+    </Act>
+    <Act dailyYoga:id="act_2a" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_2a.mp4" dailyYoga:playTime="78000" dailyYoga:textString="@string/act_text_2a" dailyYoga:titleString="@string/act_title_2a">
+        <Icons>
+            <Icon dailyYoga:id="@icon/act_2a.png"></Icon>
+        </Icons>
+        <PrinciplePrompt>
+            <Promp dailyYoga:id="@promp/act_2a.png"></Promp>
+        </PrinciplePrompt>
+        <Audios>
+            <Audio dailyYoga:id="@ogg/act_2a_start.ogg" dailyYoga:startTime="100"></Audio>
+        </Audios>
+    </Act>
+    <Act dailyYoga:id="act_3a" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_3a.mp4" dailyYoga:playTime="86000" dailyYoga:textString="@string/act_text_3a" dailyYoga:titleString="@string/act_title_3a">
+        <Icons>
+            <Icon dailyYoga:id="@icon/act_3a.png"></Icon>
+        </Icons>
+        <PrinciplePrompt>
+            <Promp dailyYoga:id="@promp/act_3a.png"></Promp>
+        </PrinciplePrompt>
+        <Audios>
+            <Audio dailyYoga:id="@ogg/act_3a_start.ogg" dailyYoga:startTime="100"></Audio>
+        </Audios>
+    </Act>
+</ActLibrary>

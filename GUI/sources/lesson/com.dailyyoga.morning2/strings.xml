@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="plugName">Beginner Sun Salutation A</string>
+    <string name="act_title_1a">Sun Salutation A No.1</string>
+    <string name="act_text_1a"></string>
+    <string name="act_title_2a">Sun Salutation A No.2</string>
+    <string name="act_text_2a"></string>
+    <string name="act_title_3a">Sun Salutation A No.3</string>
+    <string name="act_text_3a"></string>
+    <string name="session_info_instructor">Instructor: Sophie</string>
+    <string name="session_info_class_level">Class Level: All</string>
+    <string name="session_info_goal">Goal: Weight Loss</string>
+    <string name="session_info">1</string>
+    <string name="session_info_like">Beginner Sun Salutation A</string>
+    <string-array name="session_keys">
+        <item>session_5.xml</item>
+    </string-array>
+    <string-array name="session_title">
+        <item>5 Min Training</item>
+    </string-array>
+    <string-array name="session_content">
+        <item>Casual</item>
+    </string-array>
+    <string-array name="session_icons">
+        <item>small</item>
+    </string-array>
+    <integer name="actVersion">0</integer>
+</resources>

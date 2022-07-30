@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="plugName">Gentle Wake up</string>
+           
+           <string name="act_title_breathcontrolineasypose">Breath Control in Easy Pose</string>
+           <string name="act_text_breathcontrolineasypose">Come to the mat in a cross-legged, seated position, easy pose. Hands renting on knees, in Gyan Mudra, thumb and index fingertips touching while holding your other three fingers straight. \nSitting tall and proud, lengthening through the core and engaging the muscles, Uddiyana Bandha. Eyes closed, relax the shoulders and draw your attention to your breath. Inhale, exhale. Focus on breath control in easy pose.</string>           
+           <string name="act_title_seatedsidebending">Seated Side Bend Pose</string>
+           <string name="act_text_seatedsidebending">Open the eyes. Inhaling, lift arms shoulder height, palms facing down. Extend torso to the right side. Right hand to the mat while left arm extends overhead into a gentle side bend, gaze is skyward. Inhale, exhale. Return to centre.\nExtending torso to the left. Left hand to the mat, right arm reaches up and over into a gentle seated side bend to the left. Gaze is skyward. Inhale, exhale. Return to centre, arms shoulder height and enter into a seated side bend to the right, right hand to the mat, left arm reaching skyward, feel the lengthening through the left side body. \nReturn to centre and begin to reach to the left, right arm overhead, lengthening through the left side body. Come to centre, hands on knees.</string>           
+           <string name="act_title_dynamicseatedtwist">Dynamic Seated Twist</string>
+           <string name="act_text_dynamicseatedtwist">Raise arms overhead, palms facing each other and gently twist body to the right. Left hand to right knee. Keeping torso vertical in dynamic seated twist. Gaze is over right shoulder. Return to centre, arms extended overhead, palms facing one another. \nBegin to turn to the left, right hand to left knee. Left hand acting as a post, turning in dynamic seated twist to the left. Lift arms skyward, returning to centre and flowing to the right, once again into dynamic seated twist. Turning, stretching. \nReturn to centre and flow into dynamic seated twist to the left. Bring arms skyward and return to centre. Gently release arms to side, placing hands on knees.</string>           
+           <string name="act_title_dynamiccatpose">Dynamic Cat Pose</string>
+           <string name="act_text_dynamiccatpose">Come to all fours, knees under hips. Hands under shoulders, back straight. Exhaling, push through the arms, round the back, drop the head into cat pose. \nInhaling, drop the belly, arch the back and raise the head coming into cow pose. Exhaling into cat. Inhaling into cow. Exhaling to cat. Inhaling to cow. Return to neutral spine position.</string>           
+           <string name="act_title_dynamiccatbalance1l">Dynamic Cat Balance (Left)</string>
+           <string name="act_text_dynamiccatbalance1l">Extend left leg fully, keeping it parallel to ground. Draw left knee to meet right elbow. \nReturn to cat balance pose and once again bring knee to meet elbow, engaging core and repeat once again, left elbow to right knee. Hand down, knee down.</string>           
+           <string name="act_title_dynamiccatbalance2r">Dynamic Cat Balance (Right)</string>
+           <string name="act_text_dynamiccatbalance2r">Repeat on opposite side.  Right leg extended parallel to ground, left arm extended. Exhale Bring right knee to let elbow and extend fully. \nRepeat two more times, knee to elbow and extend. And one final time, exhale, bringing knee to elbow. Hand down, knee down and return to neutral position.</string>           
+           <string name="act_title_downwarddog">Downward Dog</string>
+           <string name="act_text_downwarddog">Turn the toes under, push through the arms and come into downward dog. \nArms shoulder width apart, pushing, extending. Feet hip width apart, extending through the legs bringing heels to the mat. \nInhaling, exhaling. Head between arms.</string>           
+           <string name="act_title_standingforwardfold">Standing Forward Fold</string>
+           <string name="act_text_standingforwardfold">Come up onto the toes and walk the feet to the hands, come to flat back. Exhale into standing forward fold. Bringing hands to back of ankles, breathing.</string>           
+           <string name="act_title_chairpose">Chair Pose</string>
+           <string name="act_text_chairpose">Release hands, bend the knees, extend arms overhead coming into chair pose. Feet and knees together, core engaged.</string>           
+           <string name="act_title_mountainpose">Mountain Pose</string>
+           <string name="act_text_mountainpose">Release and come into mountain pose, hands to Namaste at heart centre. Inhaling, exhaling.</string>           
+           <string name="act_title_forwardfoldtochairpose">Forward Fold to Chair Pose</string>
+           <string name="act_text_forwardfoldtochairpose">Release, bend the legs and come into chair pose. Straighten the legs and exhale into forward fold.</string>           
+           <string name="act_title_easysunsalutation">Easy Sun Salutation</string>
+           <string name="act_text_easysunsalutation">Release, come into flat back. Step the left foot back to the lunge and drop the knee to the mat Inhale arms overhead, palms facing one another and gently twist to the right. Left hand on right knee. Right arm extended fully, chest open to the right. \nRelease, bring arms overhead. Bring hands to mat and step back into plank pose and come into easy sun salutation. Bend knees to mat, lower chest to mat and scoop through to cobra. Bring the toes under and extend back into downward dog. \nExtend left leg into the air and step it through to the hands. Lower right knee to mat, raise hands overhead. Exhale, bring hands to the mat, bring the right toes under, walk feet to hands. Come to flat back and exhale to forward fold. Inhale hands over head, palms facing one another.Exhale, swan dive to forward fold. Inhale to flat back and step the right foot back to the lunge, dropping knee to the mat. Inhale arms overhead. Exhale, coming into twisted leg bend, right hand to left knee. Left arm extended, gaze over left hand. Release, hands overhead.\nExhale, bring hands to the mat. Step left foot back to plank. Drop knees to the mat. Lower chest to mat and scoop through to cobra. Tuck the toes under and exhale into downward dog. Extend right leg into the air and step through to hands into lunge. Drop left knee to the mat. Extend arms over head, exhale hands to the mat. Tuck the toes under and walk feet to hands, coming into forward fold. Inhale, exhale.</string>           
+           <string name="act_title_twistedlegbending1l">Twisted Leg Bending (Left)</string>
+           <string name="act_text_twistedlegbending1l">Sitting tall, gently turn to the left. Bring right elbow to outside of left knee. Exhale, return to centre.</string>           
+           <string name="act_title_twistedlegbending2r">Twisted Leg Bending (Right)</string>
+           <string name="act_text_twistedlegbending2r">Inhale, begin seated twist to the right. Left elbow to outside of right knee. Release and return to centre.</string>           
+           <string name="act_title_tableposeflow">Table Pose Flow</string>
+           <string name="act_text_tableposeflow">Place hands on mat, fingers facing body. Feet shoulder width apart and lift torso to table top, extending through the arms. Release to the mat. Extend and lift to table top. Release to the mat.\nExtend one more time, lifting to table top. Lower to the mat and come to supine position, legs extended, arms by your side.</string>           
+           <string name="act_title_supineleglifting">Supine Leg Lifting</string>
+           <string name="act_text_supineleglifting">Bend the knees to chest, straighten and extend skyward. Lower right leg, parallel to mat. Extend right leg skyward, lowering left leg.\nRaise left leg, lower right. And switch. And switch And switch and bring both legs skyward, bend the legs to chest.</string>           
+           <string name="act_title_supinetwist1l">Supine Twist (Left)</string>
+           <string name="act_text_supinetwist1l">Extend arms on mat, shoulder height. Gently lower bent knees to the left. Place left hand on right knee and turn gaze to the right. Inhale, exhale.</string>           
+           <string name="act_title_supinetwist2r">Supine Twist (Right)</string>
+           <string name="act_text_supinetwist2r">Release hand and bring knees to centre and roll through to the right. Right hand on left knee.\nGaze is to the left. Release hand, bring knees to centre.</string>           
+           <string name="act_title_corpsepose">Corpse Pose</string>
+           <string name="act_text_corpsepose">Extend legs onto the mat. Arms by your side, palms skyward in our finishing pose, corpse pose, savasana. Focus on the breath, let go of tension, inhale, exhale, and simply be.</string>
+    <!-- ============================================================================= -->
+    <string name="session_info_instructor">Instructor: Jasmine</string>
+    <string name="session_info_class_level">Class Level: All</string>
+    <string name="session_info_goal">Goal: Weight Loss</string>
+    <string name="session_info">1</string>
+    <string name="session_info_like">Gentle Wake up</string>
+
+    <string-array name="session_keys">
+        <item>session_15.xml</item>
+
+    </string-array>
+    <string-array name="session_title">
+        <item>16 min</item>
+
+    </string-array>
+    <string-array name="session_content">
+        <item>Casual</item>
+
+    </string-array>
+    <string-array name="session_icons">
+        <item>small</item>
+
+    </string-array>
+    <integer name="actVersion">0</integer>
+</resources>

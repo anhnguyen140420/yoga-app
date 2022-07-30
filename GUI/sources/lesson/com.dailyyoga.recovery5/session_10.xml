@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session xmlns:dailyYoga="http://schemas.android.com/apk/res/android" dailyYoga:packageName="com.dailyyoga.recovery5">
+    <Act dailyYoga:id="act_1a" dailyYoga:icon="@icon/act_1a.png" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_1a.mp4" dailyYoga:playTime="32000" dailyYoga:score="2" dailyYoga:titleString="@string/act_title_1a">
+        <Audios>
+            <Audio dailyYoga:id="@ogg/act_1a_start.ogg" dailyYoga:startTime="100"></Audio>
+            <Audio dailyYoga:id="@ogg/act_empty_end.ogg" dailyYoga:startTime="32000"></Audio>
+        </Audios>
+    </Act>
+    <Act dailyYoga:id="act_2a" dailyYoga:icon="@icon/act_2a.png" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_2a.mp4" dailyYoga:playTime="81000" dailyYoga:score="2" dailyYoga:titleString="@string/act_title_2a">
+        <Audios>
+            <Audio dailyYoga:id="@ogg/act_2a_start.ogg" dailyYoga:startTime="100"></Audio>
+            <Audio dailyYoga:id="@ogg/act_empty_end.ogg" dailyYoga:startTime="81000"></Audio>
+        </Audios>
+    </Act>
+    <Act dailyYoga:id="act_3a" dailyYoga:icon="@icon/act_3a.png" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_3a.mp4" dailyYoga:playTime="48000" dailyYoga:score="2" dailyYoga:titleString="@string/act_title_3a">
+        <Audios>
+            <Audio dailyYoga:id="@ogg/act_3a_start.ogg" dailyYoga:startTime="100"></Audio>
+            <Audio dailyYoga:id="@ogg/act_empty_end.ogg" dailyYoga:startTime="48000"></Audio>
+        </Audios>
+    </Act>
+    <Act dailyYoga:id="act_4a" dailyYoga:icon="@icon/act_4a.png" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_4a.mp4" dailyYoga:playTime="56000" dailyYoga:score="2" dailyYoga:titleString="@string/act_title_4a">
+        <Audios>
+            <Audio dailyYoga:id="@ogg/act_4a_start.ogg" dailyYoga:startTime="100"></Audio>
+            <Audio dailyYoga:id="@ogg/act_empty_end.ogg" dailyYoga:startTime="56000"></Audio>
+        </Audios>
+    </Act>
+    <Act dailyYoga:id="act_5a" dailyYoga:icon="@icon/act_5a.png" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_5a.mp4" dailyYoga:playTime="20000" dailyYoga:score="2" dailyYoga:titleString="@string/act_title_5a">
+        <Audios>
+            <Audio dailyYoga:id="@ogg/act_5a_start.ogg" dailyYoga:startTime="100"></Audio>
+            <Audio dailyYoga:id="@ogg/act_empty_end.ogg" dailyYoga:startTime="20000"></Audio>
+        </Audios>
+    </Act>
+    <Act dailyYoga:id="act_6a" dailyYoga:icon="@icon/act_6a.png" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_6a.mp4" dailyYoga:playTime="23000" dailyYoga:score="2" dailyYoga:titleString="@string/act_title_6a">
+        <Audios>
+            <Audio dailyYoga:id="@ogg/act_6a_start.ogg" dailyYoga:startTime="100"></Audio>
+            <Audio dailyYoga:id="@ogg/act_empty_end.ogg" dailyYoga:startTime="23000"></Audio>
+        </Audios>
+    </Act>
+    <Act dailyYoga:id="act_7a" dailyYoga:icon="@icon/act_7a.png" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_7a.mp4" dailyYoga:playTime="33000" dailyYoga:score="2" dailyYoga:titleString="@string/act_title_7a">
+        <Audios>
+            <Audio dailyYoga:id="@ogg/act_7a_start.ogg" dailyYoga:startTime="100"></Audio>
+            <Audio dailyYoga:id="@ogg/act_empty_end.ogg" dailyYoga:startTime="33000"></Audio>
+        </Audios>
+    </Act>
+    <Act dailyYoga:id="act_8a" dailyYoga:icon="@icon/act_8a.png" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_8a.mp4" dailyYoga:playTime="20000" dailyYoga:score="2" dailyYoga:titleString="@string/act_title_8a">
+        <Audios>
+            <Audio dailyYoga:id="@ogg/act_8a_start.ogg" dailyYoga:startTime="100"></Audio>
+            <Audio dailyYoga:id="@ogg/act_empty_end.ogg" dailyYoga:startTime="20000"></Audio>
+        </Audios>
+    </Act>
+    <Act dailyYoga:id="act_9a" dailyYoga:icon="@icon/act_9a.png" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_9a.mp4" dailyYoga:playTime="69000" dailyYoga:score="2" dailyYoga:titleString="@string/act_title_9a">
+        <Audios>
+            <Audio dailyYoga:id="@ogg/act_9a_start.ogg" dailyYoga:startTime="100"></Audio>
+            <Audio dailyYoga:id="@ogg/act_empty_end.ogg" dailyYoga:startTime="69000"></Audio>
+        </Audios>
+    </Act>
+    <Act dailyYoga:id="act_10a" dailyYoga:icon="@icon/act_10a.png" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_10a.mp4" dailyYoga:playTime="144000" dailyYoga:score="2" dailyYoga:titleString="@string/act_title_10a">
+        <Audios>
+            <Audio dailyYoga:id="@ogg/act_10a_start.ogg" dailyYoga:startTime="100"></Audio>
+            <Audio dailyYoga:id="@ogg/act_empty_end.ogg" dailyYoga:startTime="144000"></Audio>
+        </Audios>
+    </Act>
+    <Act dailyYoga:id="act_11a" dailyYoga:icon="@icon/act_11a.png" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_11a.mp4" dailyYoga:playTime="90000" dailyYoga:score="2" dailyYoga:titleString="@string/act_title_11a">
+        <Audios>
+            <Audio dailyYoga:id="@ogg/act_11a_start.ogg" dailyYoga:startTime="100"></Audio>
+            <Audio dailyYoga:id="@ogg/act_end_end.ogg" dailyYoga:startTime="90000"></Audio>
+        </Audios>
+    </Act>
+</Session>

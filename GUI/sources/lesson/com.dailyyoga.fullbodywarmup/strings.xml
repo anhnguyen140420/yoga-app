@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="plugName">Full Body Warm up</string>
+           
+           <string name="act_title_extendedchildspose">Extended Child's Pose</string>
+           <string name="act_text_extendedchildspose"></string>           
+           <string name="act_title_neckrollsinthunderboltpose">Neck Rolls in Thunderbolt Pose</string>
+           <string name="act_text_neckrollsinthunderboltpose"></string>           
+           <string name="act_title_revolvedwideleggedchildspose1r">Revolved Wide-legged Child's Pose(right)</string>
+           <string name="act_text_revolvedwideleggedchildspose1r"></string>           
+           <string name="act_title_revolvedwideleggedchildspose2l">Revolved Wide-legged Child's Pose (left)</string>
+           <string name="act_text_revolvedwideleggedchildspose2l"></string>           
+           <string name="act_title_catandcowpose">Cat and Cow Pose</string>
+           <string name="act_text_catandcowpose"></string>           
+           <string name="act_title_wideleggeddownwarddogpedalingthefeet">Wide-legged Downward Dog Pedaling the Feet</string>
+           <string name="act_text_wideleggeddownwarddogpedalingthefeet"></string>           
+           <string name="act_title_dynamiclunge1r">Dynamic Lunge (Right)</string>
+           <string name="act_text_dynamiclunge1r"></string>           
+           <string name="act_title_standingdynamicsidebends">Standing Dynamic Side Bends</string>
+           <string name="act_text_standingdynamicsidebends"></string>           
+           <string name="act_title_dynamiclunge2l">Dynamic Lunge (Left)</string>
+           <string name="act_text_dynamiclunge2l"></string>           
+           <string name="act_title_plankpose">Plank Pose</string>
+           <string name="act_text_plankpose"></string>           
+           <string name="act_title_proneleglifts">Prone Leg Lifts</string>
+           <string name="act_text_proneleglifts"></string>           
+           <string name="act_title_pronedoubleleglift">Prone Double Leg Lift</string>
+           <string name="act_text_pronedoubleleglift"></string>           
+           <string name="act_title_childspose">Child's Pose</string>
+           <string name="act_text_childspose"></string>           
+           <string name="act_title_halfboundangletwist1l">Half Bound Angle Twist (left)</string>
+           <string name="act_text_halfboundangletwist1l"></string>           
+           <string name="act_title_halfboundangletwist2r">Half Bound Angle Twist(right)</string>
+           <string name="act_text_halfboundangletwist2r"></string>           
+           <string name="act_title_corpseposewithoutstretchedarms">Corpse Pose with Outstretched Arms</string>
+           <string name="act_text_corpseposewithoutstretchedarms"></string>
+    <!-- ============================================================================= -->
+    <string name="session_info_instructor">Instructor: Sophie</string>
+    <string name="session_info_class_level">Class Level: All</string>
+    <string name="session_info_goal">Goal: Weight Loss</string>
+    <string name="session_info">1</string>
+    <string name="session_info_like">Full Body Warm up</string>
+
+    <string-array name="session_keys">
+        <item>session_18.xml</item>
+
+    </string-array>
+    <string-array name="session_title">
+        <item>18 min</item>
+
+    </string-array>
+    <string-array name="session_content">
+        <item>Casual</item>
+
+    </string-array>
+    <string-array name="session_icons">
+        <item>small</item>
+
+    </string-array>
+    <integer name="actVersion">0</integer>
+</resources>

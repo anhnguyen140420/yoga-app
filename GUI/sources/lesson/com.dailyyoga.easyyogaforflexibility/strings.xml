@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="plugName">Easy Yoga for Flexibility</string>
+           
+           <string name="act_title_supineoneleggedstretch1r">Dynamic Supine One-legged Stretch (Right)</string>
+           <string name="act_text_supineoneleggedstretch1r"></string>           
+           <string name="act_title_supineoneleggedstretch2l">Dynamic Supine One-legged Stretch (Left)</string>
+           <string name="act_text_supineoneleggedstretch2l"></string>           
+           <string name="act_title_halfboundanglesidebend1r">Half Bound Angle Side Bend (Right)</string>
+           <string name="act_text_halfboundanglesidebend1r"></string>           
+           <string name="act_title_halfboundangleforwardfold1r">Half Bound Angle Forward Fold (Right)</string>
+           <string name="act_text_halfboundangleforwardfold1r"></string>           
+           <string name="act_title_halfboundanglesidebend2l">Half Bound Angle Side Bend (Left)</string>
+           <string name="act_text_halfboundanglesidebend2l"></string>           
+           <string name="act_title_halfboundangleforwardfold2l">Half Bound Angle Forward Fold (Left)</string>
+           <string name="act_text_halfboundangleforwardfold2l"></string>           
+           <string name="act_title_dynamicboundanglepose">Dynamic Bound Angle Pose</string>
+           <string name="act_text_dynamicboundanglepose"></string>           
+           <string name="act_title_supinestraddleflow1r">Supine Twist (Right)</string>
+           <string name="act_text_supinestraddleflow1r"></string>           
+           <string name="act_title_supinestraddleflow2l">Supine Twist (Left)</string>
+           <string name="act_text_supinestraddleflow2l"></string>           
+           <string name="act_title_corpsepose">Corpse Pose</string>
+           <string name="act_text_corpsepose"></string>
+    <!-- ============================================================================= -->
+    <string name="session_info_instructor">Instructor: Sophie</string>
+    <string name="session_info_class_level">Class Level: Beginner</string>
+    <string name="session_info_goal">Goal: Yoga Skills</string>
+    <string name="session_info"></string>
+    <string name="session_info_like">Easy Yoga for Flexibility</string>
+<string-array name="session_keys">
+    <item>session_10.xml</item>
+  </string-array>
+  <string-array name="session_title">
+    <item>10 min</item>
+  </string-array>
+  <string-array name="session_content">
+    <item>Casual</item>
+  </string-array>
+  <string-array name="session_icons">
+    <item>small</item>
+  </string-array>
+  <integer name="actVersion">0</integer>
+</resources>

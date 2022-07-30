@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ActLibrary dailyYoga:pakageName="com.dailyyoga.basicstrengthandfocus" xmlns:dailyYoga="http://schemas.android.com/apk/res/android">
+  <Act dailyYoga:id="act_standingsidebend1l" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_standingsidebend1l.mp4" dailyYoga:playTime="65000" dailyYoga:textString="@string/act_text_standingsidebend1l" dailyYoga:titleString="@string/act_title_standingsidebend1l">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_standingsidebend1l.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_standingsidebend1l.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_standingsidebend1l_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_standingsidebend2r" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_standingsidebend2r.mp4" dailyYoga:playTime="27000" dailyYoga:textString="@string/act_text_standingsidebend2r" dailyYoga:titleString="@string/act_title_standingsidebend2r">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_standingsidebend2r.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_standingsidebend2r.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_standingsidebend2r_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_dynamicwidelegchairpose" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_dynamicwidelegchairpose.mp4" dailyYoga:playTime="51000" dailyYoga:textString="@string/act_text_dynamicwidelegchairpose" dailyYoga:titleString="@string/act_title_dynamicwidelegchairpose">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_dynamicwidelegchairpose.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_dynamicwidelegchairpose.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_dynamicwidelegchairpose_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_kneelbendingforwardfold" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_kneelbendingforwardfold.mp4" dailyYoga:playTime="31000" dailyYoga:textString="@string/act_text_kneelbendingforwardfold" dailyYoga:titleString="@string/act_title_kneelbendingforwardfold">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_kneelbendingforwardfold.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_kneelbendingforwardfold.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_kneelbendingforwardfold_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_twistedarmstretchinlungepose1r" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_twistedarmstretchinlungepose1r.mp4" dailyYoga:playTime="80000" dailyYoga:textString="@string/act_text_twistedarmstretchinlungepose1r" dailyYoga:titleString="@string/act_title_twistedarmstretchinlungepose1r">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_twistedarmstretchinlungepose1r.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_twistedarmstretchinlungepose1r.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_twistedarmstretchinlungepose1r_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_twistedarmstretchinlungepose2l" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_twistedarmstretchinlungepose2l.mp4" dailyYoga:playTime="50000" dailyYoga:textString="@string/act_text_twistedarmstretchinlungepose2l" dailyYoga:titleString="@string/act_title_twistedarmstretchinlungepose2l">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_twistedarmstretchinlungepose2l.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_twistedarmstretchinlungepose2l.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_twistedarmstretchinlungepose2l_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_crunchedtigerpose1r" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_crunchedtigerpose1r.mp4" dailyYoga:playTime="50000" dailyYoga:textString="@string/act_text_crunchedtigerpose1r" dailyYoga:titleString="@string/act_title_crunchedtigerpose1r">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_crunchedtigerpose1r.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_crunchedtigerpose1r.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_crunchedtigerpose1r_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_crunchedtigerpose2l" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_crunchedtigerpose2l.mp4" dailyYoga:playTime="30000" dailyYoga:textString="@string/act_text_crunchedtigerpose2l" dailyYoga:titleString="@string/act_title_crunchedtigerpose2l">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_crunchedtigerpose2l.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_crunchedtigerpose2l.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_crunchedtigerpose2l_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_dynamicarmstretchinglucust" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_dynamicarmstretchinglucust.mp4" dailyYoga:playTime="65000" dailyYoga:textString="@string/act_text_dynamicarmstretchinglucust" dailyYoga:titleString="@string/act_title_dynamicarmstretchinglucust">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_dynamicarmstretchinglucust.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_dynamicarmstretchinglucust.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_dynamicarmstretchinglucust_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_armstretchinglucust" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_armstretchinglucust.mp4" dailyYoga:playTime="24000" dailyYoga:textString="@string/act_text_armstretchinglucust" dailyYoga:titleString="@string/act_title_armstretchinglucust">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_armstretchinglucust.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_armstretchinglucust.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_armstretchinglucust_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_dynamicbackrolling" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_dynamicbackrolling.mp4" dailyYoga:playTime="45000" dailyYoga:textString="@string/act_text_dynamicbackrolling" dailyYoga:titleString="@string/act_title_dynamicbackrolling">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_dynamicbackrolling.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_dynamicbackrolling.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_dynamicbackrolling_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_supinearmstretch" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_supinearmstretch.mp4" dailyYoga:playTime="46000" dailyYoga:textString="@string/act_text_supinearmstretch" dailyYoga:titleString="@string/act_title_supinearmstretch">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_supinearmstretch.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_supinearmstretch.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_supinearmstretch_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_corpsepose" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_corpsepose.mp4" dailyYoga:playTime="41000" dailyYoga:textString="@string/act_text_corpsepose" dailyYoga:titleString="@string/act_title_corpsepose">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_corpsepose.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_corpsepose.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_corpsepose_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+</ActLibrary>

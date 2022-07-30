@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session xmlns:dailyYoga="http://schemas.android.com/apk/res/android" dailyYoga:packageName="com.dailyyoga.morning2">
+    <Act dailyYoga:id="act_1a" dailyYoga:icon="@icon/act_1a.png" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_1a.mp4" dailyYoga:playTime="180000" dailyYoga:score="2" dailyYoga:titleString="@string/act_title_1a">
+        <Audios>
+            <Audio dailyYoga:id="@ogg/act_1a_start.ogg" dailyYoga:startTime="100"></Audio>
+            <Audio dailyYoga:id="@ogg/act_empty_end.ogg" dailyYoga:startTime="180000"></Audio>
+        </Audios>
+    </Act>
+    <Act dailyYoga:id="act_2a" dailyYoga:icon="@icon/act_2a.png" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_2a.mp4" dailyYoga:playTime="78000" dailyYoga:score="2" dailyYoga:titleString="@string/act_title_2a">
+        <Audios>
+            <Audio dailyYoga:id="@ogg/act_2a_start.ogg" dailyYoga:startTime="100"></Audio>
+            <Audio dailyYoga:id="@ogg/act_empty_end.ogg" dailyYoga:startTime="78000"></Audio>
+        </Audios>
+    </Act>
+    <Act dailyYoga:id="act_3a" dailyYoga:icon="@icon/act_3a.png" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_3a.mp4" dailyYoga:playTime="86000" dailyYoga:score="2" dailyYoga:titleString="@string/act_title_3a">
+        <Audios>
+            <Audio dailyYoga:id="@ogg/act_3a_start.ogg" dailyYoga:startTime="100"></Audio>
+            <Audio dailyYoga:id="@ogg/act_end_end.ogg" dailyYoga:startTime="86000"></Audio>
+        </Audios>
+    </Act>
+</Session>

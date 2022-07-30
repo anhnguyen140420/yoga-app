@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ActLibrary dailyYoga:pakageName="com.dailyyoga.basicflexibilitybuilder" xmlns:dailyYoga="http://schemas.android.com/apk/res/android">
+  <Act dailyYoga:id="act_supineoneleggedstretch1r" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_supineoneleggedstretch1r.mp4" dailyYoga:playTime="84000" dailyYoga:textString="@string/act_text_supineoneleggedstretch1r" dailyYoga:titleString="@string/act_title_supineoneleggedstretch1r">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_supineoneleggedstretch1r.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_supineoneleggedstretch1r.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_supineoneleggedstretch1r_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_supineoneleggedstretch2l" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_supineoneleggedstretch2l.mp4" dailyYoga:playTime="49000" dailyYoga:textString="@string/act_text_supineoneleggedstretch2l" dailyYoga:titleString="@string/act_title_supineoneleggedstretch2l">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_supineoneleggedstretch2l.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_supineoneleggedstretch2l.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_supineoneleggedstretch2l_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_halfboundanglesidebend1r" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_halfboundanglesidebend1r.mp4" dailyYoga:playTime="84000" dailyYoga:textString="@string/act_text_halfboundanglesidebend1r" dailyYoga:titleString="@string/act_title_halfboundanglesidebend1r">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_halfboundanglesidebend1r.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_halfboundanglesidebend1r.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_halfboundanglesidebend1r_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_halfboundangleforwardfold1r" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_halfboundangleforwardfold1r.mp4" dailyYoga:playTime="48000" dailyYoga:textString="@string/act_text_halfboundangleforwardfold1r" dailyYoga:titleString="@string/act_title_halfboundangleforwardfold1r">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_halfboundangleforwardfold1r.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_halfboundangleforwardfold1r.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_halfboundangleforwardfold1r_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_halfboundanglesidebend2l" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_halfboundanglesidebend2l.mp4" dailyYoga:playTime="66000" dailyYoga:textString="@string/act_text_halfboundanglesidebend2l" dailyYoga:titleString="@string/act_title_halfboundanglesidebend2l">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_halfboundanglesidebend2l.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_halfboundanglesidebend2l.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_halfboundanglesidebend2l_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_halfboundangleforwardfold2l" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_halfboundangleforwardfold2l.mp4" dailyYoga:playTime="42000" dailyYoga:textString="@string/act_text_halfboundangleforwardfold2l" dailyYoga:titleString="@string/act_title_halfboundangleforwardfold2l">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_halfboundangleforwardfold2l.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_halfboundangleforwardfold2l.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_halfboundangleforwardfold2l_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_dynamicboundanglepose" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_dynamicboundanglepose.mp4" dailyYoga:playTime="71000" dailyYoga:textString="@string/act_text_dynamicboundanglepose" dailyYoga:titleString="@string/act_title_dynamicboundanglepose">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_dynamicboundanglepose.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_dynamicboundanglepose.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_dynamicboundanglepose_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_supinestraddleflow1r" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_supinestraddleflow1r.mp4" dailyYoga:playTime="80000" dailyYoga:textString="@string/act_text_supinestraddleflow1r" dailyYoga:titleString="@string/act_title_supinestraddleflow1r">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_supinestraddleflow1r.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_supinestraddleflow1r.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_supinestraddleflow1r_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_supinestraddleflow2l" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_supinestraddleflow2l.mp4" dailyYoga:playTime="41000" dailyYoga:textString="@string/act_text_supinestraddleflow2l" dailyYoga:titleString="@string/act_title_supinestraddleflow2l">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_supinestraddleflow2l.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_supinestraddleflow2l.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_supinestraddleflow2l_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+  <Act dailyYoga:id="act_corpsepose" dailyYoga:filterCategory="seated" dailyYoga:filterLevel="beginner" dailyYoga:filterWeight="41" dailyYoga:playCount="1" dailyYoga:playFile="@mp4/act_corpsepose.mp4" dailyYoga:playTime="43000" dailyYoga:textString="@string/act_text_corpsepose" dailyYoga:titleString="@string/act_title_corpsepose">
+    <Icons>
+      <Icon dailyYoga:id="@icon/act_corpsepose.png" />
+    </Icons>
+    <PrinciplePrompt>
+      <Promp dailyYoga:id="@promp/act_corpsepose.png" />
+    </PrinciplePrompt>
+    <Audios>
+      <Audio dailyYoga:id="@ogg/act_corpsepose_start.ogg" dailyYoga:startTime="100" />
+    </Audios>
+  </Act>
+</ActLibrary>

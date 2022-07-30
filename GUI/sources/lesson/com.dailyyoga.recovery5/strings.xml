@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="plugName">5</string>
+    <string name="act_title_1a">Breathing in Mountain Pose</string>
+    <string name="act_text_1a"></string>
+    <string name="act_title_2a">Standing Side Bends</string>
+    <string name="act_text_2a"></string>
+    <string name="act_title_3a">Elevated Pose</string>
+    <string name="act_text_3a"></string>
+    <string name="act_title_4a">Standing Forward Fold</string>
+    <string name="act_text_4a"></string>
+    <string name="act_title_5a">Chair Pose</string>
+    <string name="act_text_5a"></string>
+    <string name="act_title_6a">Downward Facing Dog</string>
+    <string name="act_text_6a"></string>
+    <string name="act_title_7a">Toe Stretching in Thunderbolt Pose</string>
+    <string name="act_text_7a"></string>
+    <string name="act_title_8a">Thunderbolt Pose</string>
+    <string name="act_text_8a"></string>
+    <string name="act_title_9a">Breathing in Bridge Pose</string>
+    <string name="act_text_9a"></string>
+    <string name="act_title_10a">Supine Leg Lifts</string>
+    <string name="act_text_10a"></string>
+    <string name="act_title_11a">Corpse Pose</string>
+    <string name="act_text_11a"></string>
+    <string name="session_info_instructor">Instructor: Sophie</string>
+    <string name="session_info_class_level">Class Level: All</string>
+    <string name="session_info_goal">Goal: Weight Loss</string>
+    <string name="session_info">1</string>
+    <string name="session_info_like">5</string>
+    <string-array name="session_keys">
+        <item>session_10.xml</item>
+    </string-array>
+    <string-array name="session_title">
+        <item>10 Min Training</item>
+    </string-array>
+    <string-array name="session_content">
+        <item>Casual</item>
+    </string-array>
+    <string-array name="session_icons">
+        <item>small</item>
+    </string-array>
+    <integer name="actVersion">0</integer>
+</resources>
